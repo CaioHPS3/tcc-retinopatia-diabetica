@@ -1,0 +1,36 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados pesados
+data/raw/
+data/processed/
+
+# Modelos treinados
+models/
+*.keras
+*.h5
+*.pth
+*.pt
+
+# Resultados gerados
+results/figures/
+results/metrics/
+results/logs/
+
+# Arquivos temporários
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/

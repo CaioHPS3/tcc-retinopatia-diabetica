@@ -1,0 +1,6 @@
+,Sem retinopatia,Retinopatia leve,Retinopatia moderada,Retinopatia severa,Retinopatia proliferativa
+Sem retinopatia,343,8,8,1,1
+Retinopatia leve,6,53,9,1,5
+Retinopatia moderada,12,51,55,44,38
+Retinopatia severa,1,2,3,22,11
+Retinopatia proliferativa,0,16,9,8,26

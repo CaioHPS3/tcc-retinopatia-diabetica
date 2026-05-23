@@ -24,9 +24,7 @@ models/
 *.pt
 
 # Resultados gerados
-results/figures/
-results/metrics/
-results/logs/
+
 
 # Arquivos temporários
 .DS_Store

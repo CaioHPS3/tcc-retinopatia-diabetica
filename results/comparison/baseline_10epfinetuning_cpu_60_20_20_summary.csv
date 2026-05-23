@@ -1,0 +1,4 @@
+modelo,test_loss,test_accuracy,epochs_completed,batch_size,image_size,split_strategy,gpu_available
+EfficientNetB0,0.7144806385040283,0.727148711681366,,16,224x224,60% treino / 20% validação / 20% teste,False
+ResNet50,0.6154513359069824,0.7817189693450928,,16,224x224,60% treino / 20% validação / 20% teste,False
+DenseNet121,0.6940789222717285,0.7339699864387512,,16,224x224,60% treino / 20% validação / 20% teste,False

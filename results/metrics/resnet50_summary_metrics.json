@@ -1,0 +1,32 @@
+{
+    "model": "ResNet50",
+    "test_loss": 0.6154513359069824,
+    "test_accuracy": 0.7817189693450928,
+    "epochs_head_configured": 10,
+    "epochs_fine_tuning_configured": 20,
+    "epochs_completed_total": 20,
+    "batch_size": 16,
+    "image_size": [
+        224,
+        224
+    ],
+    "class_weight_mode": "balanced",
+    "class_weights": {
+        "0": 0.405724838411819,
+        "1": 1.9792792792792793,
+        "2": 0.7335559265442404,
+        "3": 3.787931034482759,
+        "4": 2.4824858757062147
+    },
+    "split_strategy": "60% treino / 20% validação / 20% teste",
+    "preprocess_input": "tensorflow.keras.applications.resnet50.preprocess_input",
+    "run_fine_tuning": true,
+    "fine_tune_last_n_layers": 30,
+    "head_learning_rate": 0.001,
+    "fine_tuning_learning_rate": 1e-05,
+    "head_training_time_seconds": 1098.9373230934143,
+    "fine_tuning_time_seconds": 1371.153933763504,
+    "gpu_available": false,
+    "final_model_path": "G:\\caio\\tcc-retinopatia-diabetica\\models\\resnet50\\resnet50_final.keras",
+    "best_checkpoint_path": "G:\\caio\\tcc-retinopatia-diabetica\\models\\resnet50\\resnet50_best.keras"
+}

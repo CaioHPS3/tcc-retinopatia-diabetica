@@ -1,0 +1,16 @@
+conjunto,diagnosis,quantidade,descricao,percentual_no_conjunto
+Teste,0,361,Sem retinopatia,49.25
+Teste,1,74,Retinopatia leve,10.1
+Teste,2,200,Retinopatia moderada,27.29
+Teste,3,39,Retinopatia severa,5.32
+Teste,4,59,Retinopatia proliferativa,8.05
+Treinamento,0,1083,Sem retinopatia,49.29
+Treinamento,1,222,Retinopatia leve,10.1
+Treinamento,2,599,Retinopatia moderada,27.26
+Treinamento,3,116,Retinopatia severa,5.28
+Treinamento,4,177,Retinopatia proliferativa,8.06
+Validação,0,361,Sem retinopatia,49.32
+Validação,1,74,Retinopatia leve,10.11
+Validação,2,200,Retinopatia moderada,27.32
+Validação,3,38,Retinopatia severa,5.19
+Validação,4,59,Retinopatia proliferativa,8.06

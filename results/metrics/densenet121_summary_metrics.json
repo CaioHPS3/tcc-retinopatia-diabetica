@@ -1,0 +1,32 @@
+{
+    "model": "DenseNet121",
+    "test_loss": 0.6940789222717285,
+    "test_accuracy": 0.7339699864387512,
+    "epochs_head_configured": 10,
+    "epochs_fine_tuning_configured": 20,
+    "epochs_completed_total": 27,
+    "batch_size": 16,
+    "image_size": [
+        224,
+        224
+    ],
+    "class_weight_mode": "balanced",
+    "class_weights": {
+        "0": 0.405724838411819,
+        "1": 1.9792792792792793,
+        "2": 0.7335559265442404,
+        "3": 3.787931034482759,
+        "4": 2.4824858757062147
+    },
+    "split_strategy": "60% treino / 20% validação / 20% teste",
+    "preprocess_input": "tensorflow.keras.applications.densenet.preprocess_input",
+    "run_fine_tuning": true,
+    "fine_tune_last_n_layers": 30,
+    "head_learning_rate": 0.001,
+    "fine_tuning_learning_rate": 1e-05,
+    "head_training_time_seconds": 1272.9584279060364,
+    "fine_tuning_time_seconds": 2242.61311006546,
+    "gpu_available": false,
+    "final_model_path": "..\\models\\densenet121\\densenet121_final.keras",
+    "best_checkpoint_path": "..\\models\\densenet121\\densenet121_best.keras"
+}

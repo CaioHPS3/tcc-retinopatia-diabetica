@@ -1,0 +1,21 @@
+{
+    "model": "ResNet50",
+    "test_loss": 0.8203103542327881,
+    "test_accuracy": 0.6766712069511414,
+    "epochs_configured": 10,
+    "epochs_completed": 10,
+    "batch_size": 16,
+    "image_size": [
+        224,
+        224
+    ],
+    "class_weights": {
+        "0": 0.405724838411819,
+        "1": 1.9792792792792793,
+        "2": 0.7335559265442404,
+        "3": 3.787931034482759,
+        "4": 2.4824858757062147
+    },
+    "split_strategy": "60% treino / 20% validação / 20% teste",
+    "gpu_available": false
+}

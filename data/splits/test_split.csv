@@ -1,734 +1,734 @@
 id_code,diagnosis,image_path
-cd5714db652d,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\cd5714db652d.png
-6110ecb3bb1c,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\6110ecb3bb1c.png
-a86128b601a7,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a86128b601a7.png
-7b8c78b41c0d,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\7b8c78b41c0d.png
-e68746d426b2,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e68746d426b2.png
-bd500a73beae,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\bd500a73beae.png
-8d3d67661620,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\8d3d67661620.png
-a15652b22ab8,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a15652b22ab8.png
-bc7bf19b84e3,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\bc7bf19b84e3.png
-59e5212f7139,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\59e5212f7139.png
-98104c8c67eb,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\98104c8c67eb.png
-6f4719c6bb4b,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\6f4719c6bb4b.png
-8e67f2d7e0ee,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\8e67f2d7e0ee.png
-a790a3b36390,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a790a3b36390.png
-735836b1ffa6,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\735836b1ffa6.png
-63b4d030b016,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\63b4d030b016.png
-c48ae5da188e,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\c48ae5da188e.png
-df8365d6ac33,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\df8365d6ac33.png
-3f49f8d100e9,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\3f49f8d100e9.png
-18621b9ca978,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\18621b9ca978.png
-a4d41c495666,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a4d41c495666.png
-6cd606dc52e9,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\6cd606dc52e9.png
-eb32a815f78c,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\eb32a815f78c.png
-ea588d1e5d96,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ea588d1e5d96.png
-c1ebe785503a,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\c1ebe785503a.png
-05cd0178ccfe,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\05cd0178ccfe.png
-370f575adb23,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\370f575adb23.png
-633fe9dbaf39,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\633fe9dbaf39.png
-9bd008aab548,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\9bd008aab548.png
-ababe19ed448,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ababe19ed448.png
-289a47dcbb82,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\289a47dcbb82.png
-8d4ff745a409,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\8d4ff745a409.png
-308f7fce6f0d,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\308f7fce6f0d.png
-c87493ed320c,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\c87493ed320c.png
-c9f0dc2c8b43,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\c9f0dc2c8b43.png
-e5f73f2855c0,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e5f73f2855c0.png
-ec6659926105,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ec6659926105.png
-6b66b0e86f7e,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\6b66b0e86f7e.png
-c9d42d7534e0,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\c9d42d7534e0.png
-d94e10f42861,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\d94e10f42861.png
-d7e5fe5245e0,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\d7e5fe5245e0.png
-524f240e0c90,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\524f240e0c90.png
-1b32e1d775ea,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\1b32e1d775ea.png
-549381330191,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\549381330191.png
-92e3d608fd3c,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\92e3d608fd3c.png
-e47452069ea1,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e47452069ea1.png
-1e7ccd4a1c87,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\1e7ccd4a1c87.png
-7c2e852171c0,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\7c2e852171c0.png
-d51b3fe0fa1b,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\d51b3fe0fa1b.png
-5bf3357a2823,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\5bf3357a2823.png
-4489d421e5aa,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\4489d421e5aa.png
-e81f4a2fbbdc,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e81f4a2fbbdc.png
-a56230242a95,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a56230242a95.png
-85f99e7e4052,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\85f99e7e4052.png
-07596907347b,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\07596907347b.png
-a88f68b0b114,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a88f68b0b114.png
-c56e65f74187,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\c56e65f74187.png
-b0619ca93a5f,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\b0619ca93a5f.png
-3f73c91b7e32,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\3f73c91b7e32.png
-69b3a00927fc,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\69b3a00927fc.png
-545df1bbcd61,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\545df1bbcd61.png
-5fcff7280019,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\5fcff7280019.png
-6f4e0538d1e4,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\6f4e0538d1e4.png
-2967e578939f,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\2967e578939f.png
-203275daf46d,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\203275daf46d.png
-5e5275ddee29,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\5e5275ddee29.png
-38487e1a5b1f,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\38487e1a5b1f.png
-17f6c7072f61,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\17f6c7072f61.png
-a14fcf84bfe1,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a14fcf84bfe1.png
-518e880613de,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\518e880613de.png
-ef8109305128,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ef8109305128.png
-01c7808d901d,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\01c7808d901d.png
-c06024f05a16,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\c06024f05a16.png
-ff59d44a70a7,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ff59d44a70a7.png
-1bf30c84bbad,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\1bf30c84bbad.png
-5c8482926a08,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\5c8482926a08.png
-d30d079e6f9a,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\d30d079e6f9a.png
-65e120143825,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\65e120143825.png
-3254e48c8aa0,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\3254e48c8aa0.png
-7ccb267fd394,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\7ccb267fd394.png
-0da09e3ce8f1,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\0da09e3ce8f1.png
-a2b995b81692,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a2b995b81692.png
-da9fe02dead3,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\da9fe02dead3.png
-d8da9de62743,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\d8da9de62743.png
-475c7ded0f7a,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\475c7ded0f7a.png
-b665041e1633,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\b665041e1633.png
-3f0d3629d69e,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\3f0d3629d69e.png
-b8f1b30877db,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\b8f1b30877db.png
-a721efb1e049,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a721efb1e049.png
-1a03a7970337,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\1a03a7970337.png
-25dc1b41ed9c,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\25dc1b41ed9c.png
-1eee55494271,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\1eee55494271.png
-4faf4063db8c,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\4faf4063db8c.png
-93802d1e3c41,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\93802d1e3c41.png
-b72f59b85f7c,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\b72f59b85f7c.png
-b35cad8fe2d7,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\b35cad8fe2d7.png
-d9c9b9786da3,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\d9c9b9786da3.png
-23175b7ef453,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\23175b7ef453.png
-3fd7df6099e3,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\3fd7df6099e3.png
-a77dbec966d4,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a77dbec966d4.png
-52230bbef30e,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\52230bbef30e.png
-bb5083fae98f,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\bb5083fae98f.png
-8a81f62320d6,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\8a81f62320d6.png
-18d8fdb140b7,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\18d8fdb140b7.png
-186c1835eec5,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\186c1835eec5.png
-d6f6bdfd8011,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\d6f6bdfd8011.png
-f2ee81781411,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f2ee81781411.png
-b8ebedd382de,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\b8ebedd382de.png
-461fa5292fda,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\461fa5292fda.png
-36e4b704b905,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\36e4b704b905.png
-7116128c65ab,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\7116128c65ab.png
-4528fbbd43a3,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\4528fbbd43a3.png
-f2094a20b275,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f2094a20b275.png
-959dc602febc,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\959dc602febc.png
-d56d32a1d62d,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\d56d32a1d62d.png
-080f66eedfb9,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\080f66eedfb9.png
-ffa47f6a7bf4,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ffa47f6a7bf4.png
-07a3be30563b,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\07a3be30563b.png
-26e231747848,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\26e231747848.png
-dbd062558b81,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\dbd062558b81.png
-ea4ce9516144,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ea4ce9516144.png
-4cddfc22b0ad,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\4cddfc22b0ad.png
-e2a233493b90,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e2a233493b90.png
-69df7ade0575,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\69df7ade0575.png
-1a90fad9ffa2,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\1a90fad9ffa2.png
-3b9c1f42c2f2,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\3b9c1f42c2f2.png
-0a38b552372d,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\0a38b552372d.png
-d3dfd0a2dee6,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\d3dfd0a2dee6.png
-8a01daa423f7,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\8a01daa423f7.png
-f3b27ac2d371,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f3b27ac2d371.png
-fdbc252813b1,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\fdbc252813b1.png
-c3789c1dab96,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\c3789c1dab96.png
-436e1793d240,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\436e1793d240.png
-8dfa629ca74e,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\8dfa629ca74e.png
-f48241b0c995,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f48241b0c995.png
-b50b30aa6e6c,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\b50b30aa6e6c.png
-7f43becd3e83,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\7f43becd3e83.png
-9f8112c710be,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\9f8112c710be.png
-e12f9f19d1be,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e12f9f19d1be.png
-13073f075a56,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\13073f075a56.png
-711d1480d2e3,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\711d1480d2e3.png
-28f73575e1f2,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\28f73575e1f2.png
-33b91def2035,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\33b91def2035.png
-6d292ca4c9ad,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\6d292ca4c9ad.png
-e582e56e7942,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e582e56e7942.png
-ee1ec90b980f,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ee1ec90b980f.png
-359bab5d784b,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\359bab5d784b.png
-6e018411ba4a,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\6e018411ba4a.png
-11b5c77fbf79,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\11b5c77fbf79.png
-1d2472849dce,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\1d2472849dce.png
-3a122851e526,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\3a122851e526.png
-966c07831334,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\966c07831334.png
-dad71ba27a9b,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\dad71ba27a9b.png
-233d948e2544,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\233d948e2544.png
-10f6ef37fe43,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\10f6ef37fe43.png
-63c7b0265775,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\63c7b0265775.png
-6733544ae7a6,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\6733544ae7a6.png
-ee6e39319b39,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ee6e39319b39.png
-ae20112e7a1e,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ae20112e7a1e.png
-4cfd22ae43d4,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\4cfd22ae43d4.png
-e01b7bac822b,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e01b7bac822b.png
-0fe31196e0e8,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\0fe31196e0e8.png
-a484bdf85b4c,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a484bdf85b4c.png
-4abca30b676b,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\4abca30b676b.png
-b9d0b83d70c3,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\b9d0b83d70c3.png
-07929d32b5b3,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\07929d32b5b3.png
-d774692d9919,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\d774692d9919.png
-e2c39ed0c941,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e2c39ed0c941.png
-033f2b43de6d,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\033f2b43de6d.png
-6b7cf869622a,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\6b7cf869622a.png
-aad0c0ee9268,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\aad0c0ee9268.png
-070f67572d03,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\070f67572d03.png
-093a42649c29,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\093a42649c29.png
-00cb6555d108,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\00cb6555d108.png
-50ddd7d976df,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\50ddd7d976df.png
-c3cd0200df79,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\c3cd0200df79.png
-876deb29f000,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\876deb29f000.png
-870f433e8f37,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\870f433e8f37.png
-a8c9fcdbc0be,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a8c9fcdbc0be.png
-7d1da90d3ca9,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\7d1da90d3ca9.png
-ccd6dcb2f568,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ccd6dcb2f568.png
-3ffa14d60b24,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\3ffa14d60b24.png
-8c0d05233238,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\8c0d05233238.png
-d3e56584a481,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\d3e56584a481.png
-b0b3b16fc305,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\b0b3b16fc305.png
-15f440753916,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\15f440753916.png
-2d07162a13b1,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\2d07162a13b1.png
-b1197f2cc9b3,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\b1197f2cc9b3.png
-35777eb7859d,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\35777eb7859d.png
-902dc5a91a3f,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\902dc5a91a3f.png
-65a3b13ad9a0,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\65a3b13ad9a0.png
-19b0e3c734f5,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\19b0e3c734f5.png
-568455854a11,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\568455854a11.png
-2df07eb5779f,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\2df07eb5779f.png
-855f0a5442b6,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\855f0a5442b6.png
-82d364726a58,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\82d364726a58.png
-55eac26bd383,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\55eac26bd383.png
-cfd1bd0fcbb4,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\cfd1bd0fcbb4.png
-519c6e8f78dc,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\519c6e8f78dc.png
-c3acf47700ea,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\c3acf47700ea.png
-66bfec8d6bcd,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\66bfec8d6bcd.png
-1ee355480567,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\1ee355480567.png
-a08a0133754a,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a08a0133754a.png
-8a25a080f28f,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\8a25a080f28f.png
-9ac41b9a809e,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\9ac41b9a809e.png
-382752f6694a,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\382752f6694a.png
-f3b6b7ca1eb1,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f3b6b7ca1eb1.png
-542964865b1e,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\542964865b1e.png
-682312e82ee3,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\682312e82ee3.png
-9c14ce27cbfc,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\9c14ce27cbfc.png
-e1dc02a3dc2a,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e1dc02a3dc2a.png
-e2265c383348,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e2265c383348.png
-5ea9e447bb62,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\5ea9e447bb62.png
-7adfb8fc0621,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\7adfb8fc0621.png
-c3b15bf9b4bc,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\c3b15bf9b4bc.png
-f994a3b07935,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f994a3b07935.png
-a3802934bad7,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a3802934bad7.png
-a8263d248523,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a8263d248523.png
-81914ceb4e74,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\81914ceb4e74.png
-8b76c3c5cb3e,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\8b76c3c5cb3e.png
-96c699221180,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\96c699221180.png
-3ca12e02dd4e,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\3ca12e02dd4e.png
-165c548185f8,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\165c548185f8.png
-9c6512166557,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\9c6512166557.png
-62b826899151,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\62b826899151.png
-a75bab2463d4,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a75bab2463d4.png
-d2901144070c,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\d2901144070c.png
-b37aae3c8fe1,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\b37aae3c8fe1.png
-c97472ef2c66,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\c97472ef2c66.png
-fa748b57262b,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\fa748b57262b.png
-e17507a4a1f5,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e17507a4a1f5.png
-6fb656d506b2,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\6fb656d506b2.png
-495106ae3b68,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\495106ae3b68.png
-fca1a8738b8a,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\fca1a8738b8a.png
-606daaf0bfc7,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\606daaf0bfc7.png
-19244004583f,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\19244004583f.png
-9033f1493da1,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\9033f1493da1.png
-a06e41bd2634,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a06e41bd2634.png
-54dc6e8107cd,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\54dc6e8107cd.png
-383e72af1955,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\383e72af1955.png
-d9e58e4d8689,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\d9e58e4d8689.png
-8dba09a4e5ed,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\8dba09a4e5ed.png
-ef8c39eb9157,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ef8c39eb9157.png
-8446826853d0,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\8446826853d0.png
-a2d349f567a6,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a2d349f567a6.png
-2ef10194e80d,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\2ef10194e80d.png
-dd3176bacfe2,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\dd3176bacfe2.png
-0edadb2aa127,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\0edadb2aa127.png
-b6bf847fbcb2,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\b6bf847fbcb2.png
-1943983492e5,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\1943983492e5.png
-12bc439d373a,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\12bc439d373a.png
-1116271db4ea,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\1116271db4ea.png
-201f6e10c108,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\201f6e10c108.png
-76be29bb30b2,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\76be29bb30b2.png
-a476fd984005,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a476fd984005.png
-9688c6ef5dc5,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\9688c6ef5dc5.png
-eb6b1f1c09db,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\eb6b1f1c09db.png
-1638404f385c,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\1638404f385c.png
-240b25a7debe,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\240b25a7debe.png
-810d3779abd9,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\810d3779abd9.png
-36a1e3c780a0,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\36a1e3c780a0.png
-7b29e3783919,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\7b29e3783919.png
-65e530ee2e79,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\65e530ee2e79.png
-d83c3efade75,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\d83c3efade75.png
-cd314653a4d8,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\cd314653a4d8.png
-8a67f1efa315,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\8a67f1efa315.png
-236f56771ec6,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\236f56771ec6.png
-1c6d119c3d70,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\1c6d119c3d70.png
-9c893e16c055,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\9c893e16c055.png
-3a61e690f4bb,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\3a61e690f4bb.png
-a81b06f50612,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a81b06f50612.png
-4860f7813654,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\4860f7813654.png
-efff2f1a35f5,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\efff2f1a35f5.png
-ae5d31979f19,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ae5d31979f19.png
-3178559fbf57,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\3178559fbf57.png
-be7f791a7877,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\be7f791a7877.png
-f23902998c21,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f23902998c21.png
-58eb3809f456,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\58eb3809f456.png
-c0a0828e01b4,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\c0a0828e01b4.png
-a150ff5dfe07,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a150ff5dfe07.png
-499c8df39222,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\499c8df39222.png
-2cacdb0dffae,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\2cacdb0dffae.png
-36b5b3c9fb32,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\36b5b3c9fb32.png
-4c570172778b,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\4c570172778b.png
-40e9b5630438,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\40e9b5630438.png
-8a9bef2fbd4e,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\8a9bef2fbd4e.png
-541db13517e2,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\541db13517e2.png
-63c0eafd6aa9,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\63c0eafd6aa9.png
-5b994ff78547,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\5b994ff78547.png
-c76664770c07,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\c76664770c07.png
-caec68f11c86,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\caec68f11c86.png
-838c87c63422,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\838c87c63422.png
-ea68b58a6e8f,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ea68b58a6e8f.png
-76bc31e0d3be,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\76bc31e0d3be.png
-14515b8f19b6,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\14515b8f19b6.png
-4189d4e631ec,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\4189d4e631ec.png
-054b1b305160,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\054b1b305160.png
-5b5b80a3edee,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\5b5b80a3edee.png
-835b9f6e12ba,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\835b9f6e12ba.png
-9c514d2d5b3f,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\9c514d2d5b3f.png
-5cc6dea19614,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\5cc6dea19614.png
-7bc00e58d419,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\7bc00e58d419.png
-ce8d2efd9d4f,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ce8d2efd9d4f.png
-a673193cd5a9,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a673193cd5a9.png
-3206171db5be,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\3206171db5be.png
-1782142e17d9,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\1782142e17d9.png
-2221cf5c7935,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\2221cf5c7935.png
-d364423ec6f9,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\d364423ec6f9.png
-3128eb593012,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\3128eb593012.png
-5e7db41b3bee,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\5e7db41b3bee.png
-b95d4dd8e5e2,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\b95d4dd8e5e2.png
-f0860c21533b,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f0860c21533b.png
-3f6c627e2ff2,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\3f6c627e2ff2.png
-345b1f0abbba,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\345b1f0abbba.png
-3bf3085ac167,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\3bf3085ac167.png
-92587e494d51,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\92587e494d51.png
-03a7f4a5786f,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\03a7f4a5786f.png
-14ee87d6cc42,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\14ee87d6cc42.png
-4ec7796df40e,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\4ec7796df40e.png
-7c2f820a6425,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\7c2f820a6425.png
-80ed04a84a16,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\80ed04a84a16.png
-6e092caa065f,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\6e092caa065f.png
-059bc89df7f4,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\059bc89df7f4.png
-36ec36c301c1,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\36ec36c301c1.png
-6d9effbcde78,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\6d9effbcde78.png
-fb88d23fc5fe,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\fb88d23fc5fe.png
-dcc6c0ad5cad,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\dcc6c0ad5cad.png
-523ff163211b,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\523ff163211b.png
-5152bf091152,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\5152bf091152.png
-c0f15fe3b4b7,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\c0f15fe3b4b7.png
-9b418ce42c13,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\9b418ce42c13.png
-6c6efb6b1358,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\6c6efb6b1358.png
-7e4019ac7f5a,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\7e4019ac7f5a.png
-72595230840c,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\72595230840c.png
-e7a372a1c3a4,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e7a372a1c3a4.png
-1d14dd912671,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\1d14dd912671.png
-496155f71d0a,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\496155f71d0a.png
-5e505e25cd3e,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\5e505e25cd3e.png
-9e5737f771c3,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\9e5737f771c3.png
-69fff98cb32a,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\69fff98cb32a.png
-599b89048034,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\599b89048034.png
-a4012932e18d,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a4012932e18d.png
-840527bc6628,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\840527bc6628.png
-5a0fe0ee4301,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\5a0fe0ee4301.png
-847b04287c9c,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\847b04287c9c.png
-72c31aa48e2c,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\72c31aa48e2c.png
-04579e31e4be,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\04579e31e4be.png
-74211a2b6dcf,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\74211a2b6dcf.png
-a85cda5f725d,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a85cda5f725d.png
-a11c62cb3f86,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a11c62cb3f86.png
-f91cfa82b9d4,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f91cfa82b9d4.png
-6966abf40b8c,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\6966abf40b8c.png
-d436c06f0490,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\d436c06f0490.png
-b99afe7137fb,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\b99afe7137fb.png
-34a7dbd3f05c,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\34a7dbd3f05c.png
-5d6239c0fd39,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\5d6239c0fd39.png
-869bbd3170cc,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\869bbd3170cc.png
-a06a63d866b2,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a06a63d866b2.png
-02da652c74b8,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\02da652c74b8.png
-f920ccd926db,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f920ccd926db.png
-6b91e99c9408,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\6b91e99c9408.png
-150fc7127582,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\150fc7127582.png
-ffcf7b45f213,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ffcf7b45f213.png
-26453eb7e989,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\26453eb7e989.png
-db49cdf1ea64,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\db49cdf1ea64.png
-89b725411cee,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\89b725411cee.png
-683023cda6a5,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\683023cda6a5.png
-c1896142a20a,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\c1896142a20a.png
-fbdc796290d4,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\fbdc796290d4.png
-19113e5f45ec,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\19113e5f45ec.png
-b7ce561a7328,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\b7ce561a7328.png
-54b322c66d01,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\54b322c66d01.png
-28dc010a0780,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\28dc010a0780.png
-50d8a8fb7737,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\50d8a8fb7737.png
-b402daa0864c,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\b402daa0864c.png
-d2cd47ed2c1d,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\d2cd47ed2c1d.png
-f4df3d86688d,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f4df3d86688d.png
-178412895d5e,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\178412895d5e.png
-837acf120946,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\837acf120946.png
-f61bf44c677c,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f61bf44c677c.png
-530d78467615,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\530d78467615.png
-80c67efc8101,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\80c67efc8101.png
-d9ad2a0ec026,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\d9ad2a0ec026.png
-4f0866b90c27,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\4f0866b90c27.png
-92d9e9f08709,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\92d9e9f08709.png
-956765d5f46d,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\956765d5f46d.png
-a247961a5cd9,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a247961a5cd9.png
-4958bfcc9f38,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\4958bfcc9f38.png
-a82a12ad3fb1,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a82a12ad3fb1.png
-cf603a9ef2d5,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\cf603a9ef2d5.png
-d2fb715b0c41,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\d2fb715b0c41.png
-3fd45879afe6,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\3fd45879afe6.png
-894a37fc3738,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\894a37fc3738.png
-95a4cc805c7b,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\95a4cc805c7b.png
-f9d52509c571,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f9d52509c571.png
-d26bb2ed6e71,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\d26bb2ed6e71.png
-fe674c2f73f5,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\fe674c2f73f5.png
-1c4f3aa4df06,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\1c4f3aa4df06.png
-c6a145742708,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\c6a145742708.png
-b4e15102cd7a,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\b4e15102cd7a.png
-687759336b0d,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\687759336b0d.png
-84c663f39632,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\84c663f39632.png
-b2b7ccd34cbd,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\b2b7ccd34cbd.png
-de18071c36e6,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\de18071c36e6.png
-573ea80a53be,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\573ea80a53be.png
-1594ca6c30d3,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\1594ca6c30d3.png
-eba3acc42197,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\eba3acc42197.png
-9d62478042b6,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\9d62478042b6.png
-840a06a9c690,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\840a06a9c690.png
-2fdffb6160a6,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\2fdffb6160a6.png
-cb39761f0712,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\cb39761f0712.png
-598b8f5b3822,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\598b8f5b3822.png
-437cbec4a3f8,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\437cbec4a3f8.png
-7356dd08b0ae,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\7356dd08b0ae.png
-12ab2f6397f0,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\12ab2f6397f0.png
-f5e9a307288c,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f5e9a307288c.png
-ae61e19fb766,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ae61e19fb766.png
-753b14c27c83,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\753b14c27c83.png
-81704925f759,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\81704925f759.png
-a6b6d27c1b32,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a6b6d27c1b32.png
-4aa07d720638,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\4aa07d720638.png
-c9e697117f3f,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\c9e697117f3f.png
-937bc1b924b1,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\937bc1b924b1.png
-3af9aaa880e9,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\3af9aaa880e9.png
-5a2c27b95c7c,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\5a2c27b95c7c.png
-8aab201c0691,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\8aab201c0691.png
-48c49f662f7d,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\48c49f662f7d.png
-0fb1053285cf,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\0fb1053285cf.png
-e68bdd36e589,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e68bdd36e589.png
-1ae8c165fd53,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\1ae8c165fd53.png
-97fdee242fea,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\97fdee242fea.png
-94b1d8ad35ec,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\94b1d8ad35ec.png
-99240ee00485,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\99240ee00485.png
-f3a4751af42e,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f3a4751af42e.png
-1a1b4b2450ca,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\1a1b4b2450ca.png
-ce754234d760,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ce754234d760.png
-f4c7ae514c54,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f4c7ae514c54.png
-75a7bc945b7d,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\75a7bc945b7d.png
-d9d2631f043c,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\d9d2631f043c.png
-3e61703b5ab2,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\3e61703b5ab2.png
-0dc031c94225,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\0dc031c94225.png
-7f6ce40f306b,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\7f6ce40f306b.png
-82ac8463fadd,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\82ac8463fadd.png
-4926dea289f8,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\4926dea289f8.png
-5288f7441f64,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\5288f7441f64.png
-d7bc62d60e8c,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\d7bc62d60e8c.png
-8e6df9eedcd8,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\8e6df9eedcd8.png
-8f14bca04b47,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\8f14bca04b47.png
-201f882365d3,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\201f882365d3.png
-1b329a127307,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\1b329a127307.png
-070d4ce5fd90,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\070d4ce5fd90.png
-0790515cf5af,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\0790515cf5af.png
-ec363f48867b,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ec363f48867b.png
-96793edb1003,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\96793edb1003.png
-bda7ff3b1562,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\bda7ff3b1562.png
-c9c563864ab1,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\c9c563864ab1.png
-784d6d302f98,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\784d6d302f98.png
-add1d681d712,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\add1d681d712.png
-f86d1c404acb,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f86d1c404acb.png
-95e732e043a1,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\95e732e043a1.png
-6c4ec95dd8ba,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\6c4ec95dd8ba.png
-98441214557f,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\98441214557f.png
-5090917a2676,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\5090917a2676.png
-e66855a5c583,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e66855a5c583.png
-ca0f1a17c8e5,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ca0f1a17c8e5.png
-2735be026d44,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\2735be026d44.png
-c639d837f5e4,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\c639d837f5e4.png
-6e44f6d04fc9,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\6e44f6d04fc9.png
-d66b6f333dc7,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\d66b6f333dc7.png
-ae8472f8d310,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ae8472f8d310.png
-a21b37719f9b,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a21b37719f9b.png
-2b21d293fdf2,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\2b21d293fdf2.png
-5dd2e26fc244,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\5dd2e26fc244.png
-dd285d9e97fe,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\dd285d9e97fe.png
-60edda7b4871,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\60edda7b4871.png
-fa3e544a7401,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\fa3e544a7401.png
-01d9477b1171,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\01d9477b1171.png
-0ad7f631dedb,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\0ad7f631dedb.png
-4a213b405ee4,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\4a213b405ee4.png
-3bf2deaa5ef0,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\3bf2deaa5ef0.png
-4c129470cec4,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\4c129470cec4.png
-63d217b059b6,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\63d217b059b6.png
-a688f20f8895,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a688f20f8895.png
-80b5a9519aec,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\80b5a9519aec.png
-6d6fcf49e515,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\6d6fcf49e515.png
-73ba798fee25,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\73ba798fee25.png
-1269ab57c2e6,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\1269ab57c2e6.png
-b5204c0decc7,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\b5204c0decc7.png
-788ddb0b70b7,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\788ddb0b70b7.png
-cc3d2e961768,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\cc3d2e961768.png
-c9485c38fdd5,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\c9485c38fdd5.png
-77acc2cafee1,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\77acc2cafee1.png
-e06d3d4733f0,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e06d3d4733f0.png
-ed88faaa325a,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ed88faaa325a.png
-18cde9649e90,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\18cde9649e90.png
-0db1d8dcf219,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\0db1d8dcf219.png
-5e7630f8438e,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\5e7630f8438e.png
-e9ff9352ccb3,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e9ff9352ccb3.png
-e7fc93ac5b6d,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e7fc93ac5b6d.png
-d06ccd0cf4b8,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\d06ccd0cf4b8.png
-f1d719c97838,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f1d719c97838.png
-a07efb1ecfc0,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a07efb1ecfc0.png
-6d454444f17c,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\6d454444f17c.png
-7cc4b7aabe04,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\7cc4b7aabe04.png
-3ac92ac3d65a,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\3ac92ac3d65a.png
-4464bb62bf20,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\4464bb62bf20.png
-0709652336e2,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\0709652336e2.png
-874f8c1929f6,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\874f8c1929f6.png
-44878f34e31f,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\44878f34e31f.png
-f0a2dc580009,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f0a2dc580009.png
-cbf0394039f8,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\cbf0394039f8.png
-991a0b7a8c87,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\991a0b7a8c87.png
-76fe19ff64fb,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\76fe19ff64fb.png
-ab78a66dee6a,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ab78a66dee6a.png
-a45c30da0c72,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a45c30da0c72.png
-92889b863ae6,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\92889b863ae6.png
-cd4e7f9fa1a9,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\cd4e7f9fa1a9.png
-5f6db235c04d,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\5f6db235c04d.png
-82bb8a01935f,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\82bb8a01935f.png
-31cb39681f6a,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\31cb39681f6a.png
-8241e43408a8,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\8241e43408a8.png
-da6389d129aa,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\da6389d129aa.png
-e893e86dde94,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e893e86dde94.png
-a7673ac44509,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a7673ac44509.png
-c0968d41eb93,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\c0968d41eb93.png
-e26bcae6c67b,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e26bcae6c67b.png
-dbfd238b3468,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\dbfd238b3468.png
-907aaff827e5,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\907aaff827e5.png
-f7735b6d47f7,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f7735b6d47f7.png
-7d37a2939f12,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\7d37a2939f12.png
-74eee788edee,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\74eee788edee.png
-da9574d35b82,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\da9574d35b82.png
-25e9fd872182,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\25e9fd872182.png
-fc4d69128e7c,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\fc4d69128e7c.png
-e387311a840e,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e387311a840e.png
-5cf9127f251a,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\5cf9127f251a.png
-e6a6acf7fca1,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e6a6acf7fca1.png
-4c6c5a1bf5ab,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\4c6c5a1bf5ab.png
-61bbc11fe503,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\61bbc11fe503.png
-025a169a0bb0,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\025a169a0bb0.png
-0e0003ddd8df,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\0e0003ddd8df.png
-2821998fc002,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\2821998fc002.png
-e5f332efcbc7,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e5f332efcbc7.png
-f580566e27f5,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f580566e27f5.png
-cc9270f06b65,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\cc9270f06b65.png
-6daef3e5ca22,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\6daef3e5ca22.png
-d160ebef4117,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\d160ebef4117.png
-92d8a7c8e718,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\92d8a7c8e718.png
-22098b1fe461,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\22098b1fe461.png
-7fe7309d0b4f,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\7fe7309d0b4f.png
-a86c6283fd78,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a86c6283fd78.png
-1f0e223b8055,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\1f0e223b8055.png
-3e1f8fecb06f,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\3e1f8fecb06f.png
-2e79041ef722,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\2e79041ef722.png
-6107a2e9f60e,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\6107a2e9f60e.png
-a9d0c900b6a9,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a9d0c900b6a9.png
-731b19a460ad,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\731b19a460ad.png
-9c088d2d1559,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\9c088d2d1559.png
-75a071608ea6,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\75a071608ea6.png
-ac81fc200162,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ac81fc200162.png
-c739ff9580d3,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\c739ff9580d3.png
-88e4399d207c,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\88e4399d207c.png
-77a9538b8362,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\77a9538b8362.png
-aa94cc4bfd84,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\aa94cc4bfd84.png
-fb6b8200b7f8,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\fb6b8200b7f8.png
-11d8e5eaee5b,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\11d8e5eaee5b.png
-fcc6aa6755e6,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\fcc6aa6755e6.png
-bc23f74e14dd,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\bc23f74e14dd.png
-a07d9a5045cb,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a07d9a5045cb.png
-f58d37d48e42,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f58d37d48e42.png
-b82dfa63a75f,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\b82dfa63a75f.png
-7f1f3269f546,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\7f1f3269f546.png
-282bc792d23a,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\282bc792d23a.png
-14c3b41d289c,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\14c3b41d289c.png
-f71333204618,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f71333204618.png
-5f51192841f7,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\5f51192841f7.png
-3b232b394e4f,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\3b232b394e4f.png
-4beeca5cc859,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\4beeca5cc859.png
-54038e56131d,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\54038e56131d.png
-c5431b81cbc9,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\c5431b81cbc9.png
-224bb938e2dd,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\224bb938e2dd.png
-70d0392397de,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\70d0392397de.png
-6630f8675a97,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\6630f8675a97.png
-8fc09fecd22f,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\8fc09fecd22f.png
-cfb17a7cc8d4,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\cfb17a7cc8d4.png
-e10190a9d52f,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e10190a9d52f.png
-80964d8e0863,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\80964d8e0863.png
-fce93caa4758,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\fce93caa4758.png
-314862758acf,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\314862758acf.png
-9bbb6c455913,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\9bbb6c455913.png
-25002fe43f92,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\25002fe43f92.png
-253e96488cfb,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\253e96488cfb.png
-daad7b617f21,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\daad7b617f21.png
-4fa26d065ad3,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\4fa26d065ad3.png
-9e5ec293267c,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\9e5ec293267c.png
-a3706ce27869,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a3706ce27869.png
-ee059945b08a,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ee059945b08a.png
-f06e7a9df795,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f06e7a9df795.png
-d57d1be1bbd1,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\d57d1be1bbd1.png
-f092febbf5c0,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f092febbf5c0.png
-eda29a9d78f3,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\eda29a9d78f3.png
-86b3a7929bec,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\86b3a7929bec.png
-881ec6186e68,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\881ec6186e68.png
-28824d12d31d,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\28824d12d31d.png
-01b3aed3ed4c,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\01b3aed3ed4c.png
-0180bfa26c0b,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\0180bfa26c0b.png
-bfa30ebf63a8,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\bfa30ebf63a8.png
-ec01f0862669,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ec01f0862669.png
-e599151ca14b,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e599151ca14b.png
-a505981d1cab,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a505981d1cab.png
-eb1d37b71fd1,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\eb1d37b71fd1.png
-b8e9a8f4617d,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\b8e9a8f4617d.png
-454a944eb557,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\454a944eb557.png
-a654b25124c3,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a654b25124c3.png
-bf7221a016b5,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\bf7221a016b5.png
-218c822a3dd9,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\218c822a3dd9.png
-0daddc45d832,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\0daddc45d832.png
-5d4e5fd34d91,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\5d4e5fd34d91.png
-60e269e3e188,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\60e269e3e188.png
-40c24aded50c,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\40c24aded50c.png
-96ce10a1dbd7,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\96ce10a1dbd7.png
-7a6e384a0846,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\7a6e384a0846.png
-247ac63e5510,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\247ac63e5510.png
-ed6704e3b72e,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ed6704e3b72e.png
-a47432cd41e7,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a47432cd41e7.png
-1c3a6b4449e9,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\1c3a6b4449e9.png
-7c629b491d1a,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\7c629b491d1a.png
-3c311c9109b0,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\3c311c9109b0.png
-e160a3b19911,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e160a3b19911.png
-8bad12d70368,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\8bad12d70368.png
-6fe67fd7f5d1,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\6fe67fd7f5d1.png
-1c4d87baaffc,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\1c4d87baaffc.png
-4e1e252317b5,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\4e1e252317b5.png
-904b03ad5594,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\904b03ad5594.png
-73881f55a3ec,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\73881f55a3ec.png
-13063d1bc4ea,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\13063d1bc4ea.png
-aafe980edd0c,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\aafe980edd0c.png
-a32b5ce3d48a,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a32b5ce3d48a.png
-4dd4a4bf2421,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\4dd4a4bf2421.png
-29bc0e721cfe,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\29bc0e721cfe.png
-302bcdb635ff,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\302bcdb635ff.png
-e632e38fd2d4,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e632e38fd2d4.png
-09f1111a388a,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\09f1111a388a.png
-780f9c237c56,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\780f9c237c56.png
-3b185ac445d0,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\3b185ac445d0.png
-ff631653374e,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ff631653374e.png
-405b4f78658f,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\405b4f78658f.png
-2a8a9e957a6c,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\2a8a9e957a6c.png
-39f8935185e6,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\39f8935185e6.png
-6d259b5b4c76,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\6d259b5b4c76.png
-f7edc074f06b,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f7edc074f06b.png
-cf8f1bc7a215,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\cf8f1bc7a215.png
-655cafb4c932,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\655cafb4c932.png
-a8dea22ef903,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a8dea22ef903.png
-40140a925c43,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\40140a925c43.png
-7d0a871c45db,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\7d0a871c45db.png
-a06e5ac695ce,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a06e5ac695ce.png
-3f8d5c940ba4,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\3f8d5c940ba4.png
-acf976efd7ce,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\acf976efd7ce.png
-388f12e8df0b,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\388f12e8df0b.png
-e19936582c61,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e19936582c61.png
-d28bd830c171,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\d28bd830c171.png
-234399352d36,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\234399352d36.png
-5dc23e440de3,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\5dc23e440de3.png
-7877be80901c,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\7877be80901c.png
-13c191b59ed0,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\13c191b59ed0.png
-b91ef82e723a,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\b91ef82e723a.png
-f5650eb52640,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f5650eb52640.png
-263d8851e33b,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\263d8851e33b.png
-7c90ab025331,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\7c90ab025331.png
-1ca35d483772,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\1ca35d483772.png
-d48178e4a49b,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\d48178e4a49b.png
-f4de9620e3f2,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f4de9620e3f2.png
-3ee17aa12e46,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\3ee17aa12e46.png
-22d843b2bbd1,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\22d843b2bbd1.png
-aa6673241154,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\aa6673241154.png
-82f2784ead76,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\82f2784ead76.png
-6d5a8362dd1e,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\6d5a8362dd1e.png
-f3cd489acbee,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f3cd489acbee.png
-4982378d72f9,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\4982378d72f9.png
-53ddae6a619e,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\53ddae6a619e.png
-7ddcfcea7369,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\7ddcfcea7369.png
-d9bbdc33db83,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\d9bbdc33db83.png
-af3b0115aad1,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\af3b0115aad1.png
-b0d6417bad3e,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\b0d6417bad3e.png
-e3ab63dc9a60,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e3ab63dc9a60.png
-ee78ce914066,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ee78ce914066.png
-91cf56d3d1af,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\91cf56d3d1af.png
-64c6c6ee0d98,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\64c6c6ee0d98.png
-49e4b95ee2dc,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\49e4b95ee2dc.png
-5e52c9fe676f,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\5e52c9fe676f.png
-80ca40196225,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\80ca40196225.png
-87b1938994b5,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\87b1938994b5.png
-32a3eb37ff40,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\32a3eb37ff40.png
-e907d23cce3d,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e907d23cce3d.png
-99c626e58464,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\99c626e58464.png
-30db694bee42,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\30db694bee42.png
-6bf2a81a5d91,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\6bf2a81a5d91.png
-34723fae6475,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\34723fae6475.png
-17188c13e635,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\17188c13e635.png
-8860c7b11530,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\8860c7b11530.png
-157d17349cc6,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\157d17349cc6.png
-33778d136069,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\33778d136069.png
-e03a74e7d74f,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\e03a74e7d74f.png
-1f15ca672675,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\1f15ca672675.png
-4384fa687afa,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\4384fa687afa.png
-0babc12807b2,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\0babc12807b2.png
-aebe87a423c8,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\aebe87a423c8.png
-51cfeccaf40d,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\51cfeccaf40d.png
-69c4cbb630de,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\69c4cbb630de.png
-ea6a53e54d0f,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\ea6a53e54d0f.png
-df0886f1e76b,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\df0886f1e76b.png
-3c28fd846b43,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\3c28fd846b43.png
-8d13c46e7d75,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\8d13c46e7d75.png
-b17f0b81dab3,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\b17f0b81dab3.png
-9a56cfb980ec,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\9a56cfb980ec.png
-196e6a186452,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\196e6a186452.png
-4462fba1d2a1,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\4462fba1d2a1.png
-4c635a01593d,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\4c635a01593d.png
-973b0facfa9b,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\973b0facfa9b.png
-4927945ecfed,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\4927945ecfed.png
-dee687c6e88a,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\dee687c6e88a.png
-27e4c800a449,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\27e4c800a449.png
-a49b0b4484ea,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a49b0b4484ea.png
-4b618537d52f,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\4b618537d52f.png
-10eefba568dd,2,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\10eefba568dd.png
-02dda30d3acf,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\02dda30d3acf.png
-cb2f3c5d71a7,1,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\cb2f3c5d71a7.png
-a0445785e2f7,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a0445785e2f7.png
-a419fcb2dfb5,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\a419fcb2dfb5.png
-772af553b8b7,3,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\772af553b8b7.png
-3c42512c81e0,0,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\3c42512c81e0.png
-f03d3c4ce7fb,4,G:\caio\tcc-retinopatia-diabetica\data\raw\train_images\f03d3c4ce7fb.png
+cd5714db652d,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\cd5714db652d.png
+6110ecb3bb1c,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\6110ecb3bb1c.png
+a86128b601a7,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a86128b601a7.png
+7b8c78b41c0d,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\7b8c78b41c0d.png
+e68746d426b2,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e68746d426b2.png
+bd500a73beae,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\bd500a73beae.png
+8d3d67661620,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\8d3d67661620.png
+a15652b22ab8,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a15652b22ab8.png
+bc7bf19b84e3,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\bc7bf19b84e3.png
+59e5212f7139,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\59e5212f7139.png
+98104c8c67eb,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\98104c8c67eb.png
+6f4719c6bb4b,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\6f4719c6bb4b.png
+8e67f2d7e0ee,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\8e67f2d7e0ee.png
+a790a3b36390,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a790a3b36390.png
+735836b1ffa6,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\735836b1ffa6.png
+63b4d030b016,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\63b4d030b016.png
+c48ae5da188e,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\c48ae5da188e.png
+df8365d6ac33,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\df8365d6ac33.png
+3f49f8d100e9,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\3f49f8d100e9.png
+18621b9ca978,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\18621b9ca978.png
+a4d41c495666,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a4d41c495666.png
+6cd606dc52e9,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\6cd606dc52e9.png
+eb32a815f78c,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\eb32a815f78c.png
+ea588d1e5d96,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ea588d1e5d96.png
+c1ebe785503a,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\c1ebe785503a.png
+05cd0178ccfe,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\05cd0178ccfe.png
+370f575adb23,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\370f575adb23.png
+633fe9dbaf39,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\633fe9dbaf39.png
+9bd008aab548,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\9bd008aab548.png
+ababe19ed448,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ababe19ed448.png
+289a47dcbb82,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\289a47dcbb82.png
+8d4ff745a409,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\8d4ff745a409.png
+308f7fce6f0d,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\308f7fce6f0d.png
+c87493ed320c,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\c87493ed320c.png
+c9f0dc2c8b43,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\c9f0dc2c8b43.png
+e5f73f2855c0,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e5f73f2855c0.png
+ec6659926105,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ec6659926105.png
+6b66b0e86f7e,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\6b66b0e86f7e.png
+c9d42d7534e0,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\c9d42d7534e0.png
+d94e10f42861,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\d94e10f42861.png
+d7e5fe5245e0,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\d7e5fe5245e0.png
+524f240e0c90,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\524f240e0c90.png
+1b32e1d775ea,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\1b32e1d775ea.png
+549381330191,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\549381330191.png
+92e3d608fd3c,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\92e3d608fd3c.png
+e47452069ea1,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e47452069ea1.png
+1e7ccd4a1c87,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\1e7ccd4a1c87.png
+7c2e852171c0,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\7c2e852171c0.png
+d51b3fe0fa1b,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\d51b3fe0fa1b.png
+5bf3357a2823,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\5bf3357a2823.png
+4489d421e5aa,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\4489d421e5aa.png
+e81f4a2fbbdc,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e81f4a2fbbdc.png
+a56230242a95,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a56230242a95.png
+85f99e7e4052,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\85f99e7e4052.png
+07596907347b,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\07596907347b.png
+a88f68b0b114,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a88f68b0b114.png
+c56e65f74187,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\c56e65f74187.png
+b0619ca93a5f,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\b0619ca93a5f.png
+3f73c91b7e32,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\3f73c91b7e32.png
+69b3a00927fc,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\69b3a00927fc.png
+545df1bbcd61,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\545df1bbcd61.png
+5fcff7280019,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\5fcff7280019.png
+6f4e0538d1e4,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\6f4e0538d1e4.png
+2967e578939f,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\2967e578939f.png
+203275daf46d,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\203275daf46d.png
+5e5275ddee29,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\5e5275ddee29.png
+38487e1a5b1f,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\38487e1a5b1f.png
+17f6c7072f61,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\17f6c7072f61.png
+a14fcf84bfe1,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a14fcf84bfe1.png
+518e880613de,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\518e880613de.png
+ef8109305128,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ef8109305128.png
+01c7808d901d,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\01c7808d901d.png
+c06024f05a16,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\c06024f05a16.png
+ff59d44a70a7,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ff59d44a70a7.png
+1bf30c84bbad,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\1bf30c84bbad.png
+5c8482926a08,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\5c8482926a08.png
+d30d079e6f9a,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\d30d079e6f9a.png
+65e120143825,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\65e120143825.png
+3254e48c8aa0,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\3254e48c8aa0.png
+7ccb267fd394,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\7ccb267fd394.png
+0da09e3ce8f1,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\0da09e3ce8f1.png
+a2b995b81692,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a2b995b81692.png
+da9fe02dead3,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\da9fe02dead3.png
+d8da9de62743,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\d8da9de62743.png
+475c7ded0f7a,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\475c7ded0f7a.png
+b665041e1633,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\b665041e1633.png
+3f0d3629d69e,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\3f0d3629d69e.png
+b8f1b30877db,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\b8f1b30877db.png
+a721efb1e049,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a721efb1e049.png
+1a03a7970337,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\1a03a7970337.png
+25dc1b41ed9c,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\25dc1b41ed9c.png
+1eee55494271,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\1eee55494271.png
+4faf4063db8c,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\4faf4063db8c.png
+93802d1e3c41,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\93802d1e3c41.png
+b72f59b85f7c,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\b72f59b85f7c.png
+b35cad8fe2d7,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\b35cad8fe2d7.png
+d9c9b9786da3,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\d9c9b9786da3.png
+23175b7ef453,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\23175b7ef453.png
+3fd7df6099e3,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\3fd7df6099e3.png
+a77dbec966d4,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a77dbec966d4.png
+52230bbef30e,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\52230bbef30e.png
+bb5083fae98f,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\bb5083fae98f.png
+8a81f62320d6,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\8a81f62320d6.png
+18d8fdb140b7,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\18d8fdb140b7.png
+186c1835eec5,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\186c1835eec5.png
+d6f6bdfd8011,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\d6f6bdfd8011.png
+f2ee81781411,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f2ee81781411.png
+b8ebedd382de,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\b8ebedd382de.png
+461fa5292fda,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\461fa5292fda.png
+36e4b704b905,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\36e4b704b905.png
+7116128c65ab,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\7116128c65ab.png
+4528fbbd43a3,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\4528fbbd43a3.png
+f2094a20b275,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f2094a20b275.png
+959dc602febc,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\959dc602febc.png
+d56d32a1d62d,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\d56d32a1d62d.png
+080f66eedfb9,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\080f66eedfb9.png
+ffa47f6a7bf4,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ffa47f6a7bf4.png
+07a3be30563b,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\07a3be30563b.png
+26e231747848,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\26e231747848.png
+dbd062558b81,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\dbd062558b81.png
+ea4ce9516144,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ea4ce9516144.png
+4cddfc22b0ad,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\4cddfc22b0ad.png
+e2a233493b90,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e2a233493b90.png
+69df7ade0575,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\69df7ade0575.png
+1a90fad9ffa2,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\1a90fad9ffa2.png
+3b9c1f42c2f2,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\3b9c1f42c2f2.png
+0a38b552372d,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\0a38b552372d.png
+d3dfd0a2dee6,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\d3dfd0a2dee6.png
+8a01daa423f7,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\8a01daa423f7.png
+f3b27ac2d371,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f3b27ac2d371.png
+fdbc252813b1,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\fdbc252813b1.png
+c3789c1dab96,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\c3789c1dab96.png
+436e1793d240,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\436e1793d240.png
+8dfa629ca74e,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\8dfa629ca74e.png
+f48241b0c995,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f48241b0c995.png
+b50b30aa6e6c,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\b50b30aa6e6c.png
+7f43becd3e83,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\7f43becd3e83.png
+9f8112c710be,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\9f8112c710be.png
+e12f9f19d1be,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e12f9f19d1be.png
+13073f075a56,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\13073f075a56.png
+711d1480d2e3,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\711d1480d2e3.png
+28f73575e1f2,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\28f73575e1f2.png
+33b91def2035,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\33b91def2035.png
+6d292ca4c9ad,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\6d292ca4c9ad.png
+e582e56e7942,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e582e56e7942.png
+ee1ec90b980f,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ee1ec90b980f.png
+359bab5d784b,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\359bab5d784b.png
+6e018411ba4a,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\6e018411ba4a.png
+11b5c77fbf79,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\11b5c77fbf79.png
+1d2472849dce,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\1d2472849dce.png
+3a122851e526,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\3a122851e526.png
+966c07831334,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\966c07831334.png
+dad71ba27a9b,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\dad71ba27a9b.png
+233d948e2544,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\233d948e2544.png
+10f6ef37fe43,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\10f6ef37fe43.png
+63c7b0265775,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\63c7b0265775.png
+6733544ae7a6,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\6733544ae7a6.png
+ee6e39319b39,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ee6e39319b39.png
+ae20112e7a1e,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ae20112e7a1e.png
+4cfd22ae43d4,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\4cfd22ae43d4.png
+e01b7bac822b,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e01b7bac822b.png
+0fe31196e0e8,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\0fe31196e0e8.png
+a484bdf85b4c,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a484bdf85b4c.png
+4abca30b676b,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\4abca30b676b.png
+b9d0b83d70c3,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\b9d0b83d70c3.png
+07929d32b5b3,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\07929d32b5b3.png
+d774692d9919,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\d774692d9919.png
+e2c39ed0c941,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e2c39ed0c941.png
+033f2b43de6d,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\033f2b43de6d.png
+6b7cf869622a,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\6b7cf869622a.png
+aad0c0ee9268,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\aad0c0ee9268.png
+070f67572d03,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\070f67572d03.png
+093a42649c29,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\093a42649c29.png
+00cb6555d108,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\00cb6555d108.png
+50ddd7d976df,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\50ddd7d976df.png
+c3cd0200df79,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\c3cd0200df79.png
+876deb29f000,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\876deb29f000.png
+870f433e8f37,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\870f433e8f37.png
+a8c9fcdbc0be,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a8c9fcdbc0be.png
+7d1da90d3ca9,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\7d1da90d3ca9.png
+ccd6dcb2f568,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ccd6dcb2f568.png
+3ffa14d60b24,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\3ffa14d60b24.png
+8c0d05233238,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\8c0d05233238.png
+d3e56584a481,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\d3e56584a481.png
+b0b3b16fc305,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\b0b3b16fc305.png
+15f440753916,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\15f440753916.png
+2d07162a13b1,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\2d07162a13b1.png
+b1197f2cc9b3,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\b1197f2cc9b3.png
+35777eb7859d,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\35777eb7859d.png
+902dc5a91a3f,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\902dc5a91a3f.png
+65a3b13ad9a0,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\65a3b13ad9a0.png
+19b0e3c734f5,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\19b0e3c734f5.png
+568455854a11,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\568455854a11.png
+2df07eb5779f,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\2df07eb5779f.png
+855f0a5442b6,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\855f0a5442b6.png
+82d364726a58,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\82d364726a58.png
+55eac26bd383,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\55eac26bd383.png
+cfd1bd0fcbb4,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\cfd1bd0fcbb4.png
+519c6e8f78dc,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\519c6e8f78dc.png
+c3acf47700ea,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\c3acf47700ea.png
+66bfec8d6bcd,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\66bfec8d6bcd.png
+1ee355480567,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\1ee355480567.png
+a08a0133754a,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a08a0133754a.png
+8a25a080f28f,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\8a25a080f28f.png
+9ac41b9a809e,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\9ac41b9a809e.png
+382752f6694a,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\382752f6694a.png
+f3b6b7ca1eb1,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f3b6b7ca1eb1.png
+542964865b1e,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\542964865b1e.png
+682312e82ee3,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\682312e82ee3.png
+9c14ce27cbfc,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\9c14ce27cbfc.png
+e1dc02a3dc2a,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e1dc02a3dc2a.png
+e2265c383348,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e2265c383348.png
+5ea9e447bb62,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\5ea9e447bb62.png
+7adfb8fc0621,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\7adfb8fc0621.png
+c3b15bf9b4bc,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\c3b15bf9b4bc.png
+f994a3b07935,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f994a3b07935.png
+a3802934bad7,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a3802934bad7.png
+a8263d248523,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a8263d248523.png
+81914ceb4e74,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\81914ceb4e74.png
+8b76c3c5cb3e,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\8b76c3c5cb3e.png
+96c699221180,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\96c699221180.png
+3ca12e02dd4e,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\3ca12e02dd4e.png
+165c548185f8,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\165c548185f8.png
+9c6512166557,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\9c6512166557.png
+62b826899151,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\62b826899151.png
+a75bab2463d4,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a75bab2463d4.png
+d2901144070c,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\d2901144070c.png
+b37aae3c8fe1,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\b37aae3c8fe1.png
+c97472ef2c66,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\c97472ef2c66.png
+fa748b57262b,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\fa748b57262b.png
+e17507a4a1f5,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e17507a4a1f5.png
+6fb656d506b2,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\6fb656d506b2.png
+495106ae3b68,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\495106ae3b68.png
+fca1a8738b8a,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\fca1a8738b8a.png
+606daaf0bfc7,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\606daaf0bfc7.png
+19244004583f,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\19244004583f.png
+9033f1493da1,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\9033f1493da1.png
+a06e41bd2634,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a06e41bd2634.png
+54dc6e8107cd,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\54dc6e8107cd.png
+383e72af1955,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\383e72af1955.png
+d9e58e4d8689,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\d9e58e4d8689.png
+8dba09a4e5ed,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\8dba09a4e5ed.png
+ef8c39eb9157,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ef8c39eb9157.png
+8446826853d0,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\8446826853d0.png
+a2d349f567a6,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a2d349f567a6.png
+2ef10194e80d,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\2ef10194e80d.png
+dd3176bacfe2,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\dd3176bacfe2.png
+0edadb2aa127,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\0edadb2aa127.png
+b6bf847fbcb2,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\b6bf847fbcb2.png
+1943983492e5,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\1943983492e5.png
+12bc439d373a,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\12bc439d373a.png
+1116271db4ea,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\1116271db4ea.png
+201f6e10c108,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\201f6e10c108.png
+76be29bb30b2,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\76be29bb30b2.png
+a476fd984005,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a476fd984005.png
+9688c6ef5dc5,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\9688c6ef5dc5.png
+eb6b1f1c09db,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\eb6b1f1c09db.png
+1638404f385c,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\1638404f385c.png
+240b25a7debe,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\240b25a7debe.png
+810d3779abd9,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\810d3779abd9.png
+36a1e3c780a0,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\36a1e3c780a0.png
+7b29e3783919,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\7b29e3783919.png
+65e530ee2e79,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\65e530ee2e79.png
+d83c3efade75,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\d83c3efade75.png
+cd314653a4d8,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\cd314653a4d8.png
+8a67f1efa315,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\8a67f1efa315.png
+236f56771ec6,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\236f56771ec6.png
+1c6d119c3d70,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\1c6d119c3d70.png
+9c893e16c055,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\9c893e16c055.png
+3a61e690f4bb,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\3a61e690f4bb.png
+a81b06f50612,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a81b06f50612.png
+4860f7813654,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\4860f7813654.png
+efff2f1a35f5,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\efff2f1a35f5.png
+ae5d31979f19,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ae5d31979f19.png
+3178559fbf57,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\3178559fbf57.png
+be7f791a7877,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\be7f791a7877.png
+f23902998c21,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f23902998c21.png
+58eb3809f456,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\58eb3809f456.png
+c0a0828e01b4,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\c0a0828e01b4.png
+a150ff5dfe07,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a150ff5dfe07.png
+499c8df39222,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\499c8df39222.png
+2cacdb0dffae,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\2cacdb0dffae.png
+36b5b3c9fb32,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\36b5b3c9fb32.png
+4c570172778b,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\4c570172778b.png
+40e9b5630438,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\40e9b5630438.png
+8a9bef2fbd4e,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\8a9bef2fbd4e.png
+541db13517e2,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\541db13517e2.png
+63c0eafd6aa9,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\63c0eafd6aa9.png
+5b994ff78547,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\5b994ff78547.png
+c76664770c07,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\c76664770c07.png
+caec68f11c86,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\caec68f11c86.png
+838c87c63422,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\838c87c63422.png
+ea68b58a6e8f,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ea68b58a6e8f.png
+76bc31e0d3be,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\76bc31e0d3be.png
+14515b8f19b6,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\14515b8f19b6.png
+4189d4e631ec,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\4189d4e631ec.png
+054b1b305160,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\054b1b305160.png
+5b5b80a3edee,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\5b5b80a3edee.png
+835b9f6e12ba,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\835b9f6e12ba.png
+9c514d2d5b3f,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\9c514d2d5b3f.png
+5cc6dea19614,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\5cc6dea19614.png
+7bc00e58d419,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\7bc00e58d419.png
+ce8d2efd9d4f,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ce8d2efd9d4f.png
+a673193cd5a9,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a673193cd5a9.png
+3206171db5be,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\3206171db5be.png
+1782142e17d9,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\1782142e17d9.png
+2221cf5c7935,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\2221cf5c7935.png
+d364423ec6f9,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\d364423ec6f9.png
+3128eb593012,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\3128eb593012.png
+5e7db41b3bee,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\5e7db41b3bee.png
+b95d4dd8e5e2,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\b95d4dd8e5e2.png
+f0860c21533b,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f0860c21533b.png
+3f6c627e2ff2,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\3f6c627e2ff2.png
+345b1f0abbba,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\345b1f0abbba.png
+3bf3085ac167,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\3bf3085ac167.png
+92587e494d51,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\92587e494d51.png
+03a7f4a5786f,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\03a7f4a5786f.png
+14ee87d6cc42,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\14ee87d6cc42.png
+4ec7796df40e,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\4ec7796df40e.png
+7c2f820a6425,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\7c2f820a6425.png
+80ed04a84a16,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\80ed04a84a16.png
+6e092caa065f,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\6e092caa065f.png
+059bc89df7f4,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\059bc89df7f4.png
+36ec36c301c1,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\36ec36c301c1.png
+6d9effbcde78,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\6d9effbcde78.png
+fb88d23fc5fe,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\fb88d23fc5fe.png
+dcc6c0ad5cad,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\dcc6c0ad5cad.png
+523ff163211b,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\523ff163211b.png
+5152bf091152,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\5152bf091152.png
+c0f15fe3b4b7,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\c0f15fe3b4b7.png
+9b418ce42c13,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\9b418ce42c13.png
+6c6efb6b1358,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\6c6efb6b1358.png
+7e4019ac7f5a,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\7e4019ac7f5a.png
+72595230840c,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\72595230840c.png
+e7a372a1c3a4,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e7a372a1c3a4.png
+1d14dd912671,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\1d14dd912671.png
+496155f71d0a,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\496155f71d0a.png
+5e505e25cd3e,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\5e505e25cd3e.png
+9e5737f771c3,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\9e5737f771c3.png
+69fff98cb32a,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\69fff98cb32a.png
+599b89048034,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\599b89048034.png
+a4012932e18d,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a4012932e18d.png
+840527bc6628,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\840527bc6628.png
+5a0fe0ee4301,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\5a0fe0ee4301.png
+847b04287c9c,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\847b04287c9c.png
+72c31aa48e2c,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\72c31aa48e2c.png
+04579e31e4be,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\04579e31e4be.png
+74211a2b6dcf,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\74211a2b6dcf.png
+a85cda5f725d,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a85cda5f725d.png
+a11c62cb3f86,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a11c62cb3f86.png
+f91cfa82b9d4,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f91cfa82b9d4.png
+6966abf40b8c,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\6966abf40b8c.png
+d436c06f0490,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\d436c06f0490.png
+b99afe7137fb,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\b99afe7137fb.png
+34a7dbd3f05c,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\34a7dbd3f05c.png
+5d6239c0fd39,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\5d6239c0fd39.png
+869bbd3170cc,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\869bbd3170cc.png
+a06a63d866b2,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a06a63d866b2.png
+02da652c74b8,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\02da652c74b8.png
+f920ccd926db,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f920ccd926db.png
+6b91e99c9408,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\6b91e99c9408.png
+150fc7127582,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\150fc7127582.png
+ffcf7b45f213,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ffcf7b45f213.png
+26453eb7e989,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\26453eb7e989.png
+db49cdf1ea64,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\db49cdf1ea64.png
+89b725411cee,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\89b725411cee.png
+683023cda6a5,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\683023cda6a5.png
+c1896142a20a,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\c1896142a20a.png
+fbdc796290d4,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\fbdc796290d4.png
+19113e5f45ec,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\19113e5f45ec.png
+b7ce561a7328,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\b7ce561a7328.png
+54b322c66d01,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\54b322c66d01.png
+28dc010a0780,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\28dc010a0780.png
+50d8a8fb7737,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\50d8a8fb7737.png
+b402daa0864c,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\b402daa0864c.png
+d2cd47ed2c1d,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\d2cd47ed2c1d.png
+f4df3d86688d,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f4df3d86688d.png
+178412895d5e,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\178412895d5e.png
+837acf120946,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\837acf120946.png
+f61bf44c677c,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f61bf44c677c.png
+530d78467615,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\530d78467615.png
+80c67efc8101,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\80c67efc8101.png
+d9ad2a0ec026,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\d9ad2a0ec026.png
+4f0866b90c27,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\4f0866b90c27.png
+92d9e9f08709,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\92d9e9f08709.png
+956765d5f46d,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\956765d5f46d.png
+a247961a5cd9,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a247961a5cd9.png
+4958bfcc9f38,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\4958bfcc9f38.png
+a82a12ad3fb1,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a82a12ad3fb1.png
+cf603a9ef2d5,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\cf603a9ef2d5.png
+d2fb715b0c41,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\d2fb715b0c41.png
+3fd45879afe6,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\3fd45879afe6.png
+894a37fc3738,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\894a37fc3738.png
+95a4cc805c7b,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\95a4cc805c7b.png
+f9d52509c571,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f9d52509c571.png
+d26bb2ed6e71,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\d26bb2ed6e71.png
+fe674c2f73f5,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\fe674c2f73f5.png
+1c4f3aa4df06,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\1c4f3aa4df06.png
+c6a145742708,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\c6a145742708.png
+b4e15102cd7a,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\b4e15102cd7a.png
+687759336b0d,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\687759336b0d.png
+84c663f39632,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\84c663f39632.png
+b2b7ccd34cbd,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\b2b7ccd34cbd.png
+de18071c36e6,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\de18071c36e6.png
+573ea80a53be,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\573ea80a53be.png
+1594ca6c30d3,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\1594ca6c30d3.png
+eba3acc42197,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\eba3acc42197.png
+9d62478042b6,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\9d62478042b6.png
+840a06a9c690,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\840a06a9c690.png
+2fdffb6160a6,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\2fdffb6160a6.png
+cb39761f0712,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\cb39761f0712.png
+598b8f5b3822,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\598b8f5b3822.png
+437cbec4a3f8,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\437cbec4a3f8.png
+7356dd08b0ae,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\7356dd08b0ae.png
+12ab2f6397f0,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\12ab2f6397f0.png
+f5e9a307288c,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f5e9a307288c.png
+ae61e19fb766,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ae61e19fb766.png
+753b14c27c83,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\753b14c27c83.png
+81704925f759,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\81704925f759.png
+a6b6d27c1b32,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a6b6d27c1b32.png
+4aa07d720638,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\4aa07d720638.png
+c9e697117f3f,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\c9e697117f3f.png
+937bc1b924b1,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\937bc1b924b1.png
+3af9aaa880e9,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\3af9aaa880e9.png
+5a2c27b95c7c,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\5a2c27b95c7c.png
+8aab201c0691,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\8aab201c0691.png
+48c49f662f7d,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\48c49f662f7d.png
+0fb1053285cf,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\0fb1053285cf.png
+e68bdd36e589,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e68bdd36e589.png
+1ae8c165fd53,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\1ae8c165fd53.png
+97fdee242fea,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\97fdee242fea.png
+94b1d8ad35ec,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\94b1d8ad35ec.png
+99240ee00485,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\99240ee00485.png
+f3a4751af42e,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f3a4751af42e.png
+1a1b4b2450ca,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\1a1b4b2450ca.png
+ce754234d760,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ce754234d760.png
+f4c7ae514c54,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f4c7ae514c54.png
+75a7bc945b7d,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\75a7bc945b7d.png
+d9d2631f043c,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\d9d2631f043c.png
+3e61703b5ab2,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\3e61703b5ab2.png
+0dc031c94225,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\0dc031c94225.png
+7f6ce40f306b,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\7f6ce40f306b.png
+82ac8463fadd,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\82ac8463fadd.png
+4926dea289f8,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\4926dea289f8.png
+5288f7441f64,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\5288f7441f64.png
+d7bc62d60e8c,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\d7bc62d60e8c.png
+8e6df9eedcd8,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\8e6df9eedcd8.png
+8f14bca04b47,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\8f14bca04b47.png
+201f882365d3,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\201f882365d3.png
+1b329a127307,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\1b329a127307.png
+070d4ce5fd90,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\070d4ce5fd90.png
+0790515cf5af,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\0790515cf5af.png
+ec363f48867b,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ec363f48867b.png
+96793edb1003,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\96793edb1003.png
+bda7ff3b1562,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\bda7ff3b1562.png
+c9c563864ab1,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\c9c563864ab1.png
+784d6d302f98,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\784d6d302f98.png
+add1d681d712,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\add1d681d712.png
+f86d1c404acb,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f86d1c404acb.png
+95e732e043a1,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\95e732e043a1.png
+6c4ec95dd8ba,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\6c4ec95dd8ba.png
+98441214557f,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\98441214557f.png
+5090917a2676,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\5090917a2676.png
+e66855a5c583,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e66855a5c583.png
+ca0f1a17c8e5,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ca0f1a17c8e5.png
+2735be026d44,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\2735be026d44.png
+c639d837f5e4,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\c639d837f5e4.png
+6e44f6d04fc9,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\6e44f6d04fc9.png
+d66b6f333dc7,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\d66b6f333dc7.png
+ae8472f8d310,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ae8472f8d310.png
+a21b37719f9b,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a21b37719f9b.png
+2b21d293fdf2,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\2b21d293fdf2.png
+5dd2e26fc244,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\5dd2e26fc244.png
+dd285d9e97fe,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\dd285d9e97fe.png
+60edda7b4871,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\60edda7b4871.png
+fa3e544a7401,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\fa3e544a7401.png
+01d9477b1171,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\01d9477b1171.png
+0ad7f631dedb,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\0ad7f631dedb.png
+4a213b405ee4,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\4a213b405ee4.png
+3bf2deaa5ef0,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\3bf2deaa5ef0.png
+4c129470cec4,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\4c129470cec4.png
+63d217b059b6,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\63d217b059b6.png
+a688f20f8895,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a688f20f8895.png
+80b5a9519aec,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\80b5a9519aec.png
+6d6fcf49e515,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\6d6fcf49e515.png
+73ba798fee25,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\73ba798fee25.png
+1269ab57c2e6,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\1269ab57c2e6.png
+b5204c0decc7,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\b5204c0decc7.png
+788ddb0b70b7,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\788ddb0b70b7.png
+cc3d2e961768,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\cc3d2e961768.png
+c9485c38fdd5,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\c9485c38fdd5.png
+77acc2cafee1,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\77acc2cafee1.png
+e06d3d4733f0,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e06d3d4733f0.png
+ed88faaa325a,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ed88faaa325a.png
+18cde9649e90,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\18cde9649e90.png
+0db1d8dcf219,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\0db1d8dcf219.png
+5e7630f8438e,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\5e7630f8438e.png
+e9ff9352ccb3,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e9ff9352ccb3.png
+e7fc93ac5b6d,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e7fc93ac5b6d.png
+d06ccd0cf4b8,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\d06ccd0cf4b8.png
+f1d719c97838,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f1d719c97838.png
+a07efb1ecfc0,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a07efb1ecfc0.png
+6d454444f17c,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\6d454444f17c.png
+7cc4b7aabe04,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\7cc4b7aabe04.png
+3ac92ac3d65a,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\3ac92ac3d65a.png
+4464bb62bf20,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\4464bb62bf20.png
+0709652336e2,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\0709652336e2.png
+874f8c1929f6,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\874f8c1929f6.png
+44878f34e31f,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\44878f34e31f.png
+f0a2dc580009,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f0a2dc580009.png
+cbf0394039f8,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\cbf0394039f8.png
+991a0b7a8c87,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\991a0b7a8c87.png
+76fe19ff64fb,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\76fe19ff64fb.png
+ab78a66dee6a,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ab78a66dee6a.png
+a45c30da0c72,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a45c30da0c72.png
+92889b863ae6,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\92889b863ae6.png
+cd4e7f9fa1a9,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\cd4e7f9fa1a9.png
+5f6db235c04d,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\5f6db235c04d.png
+82bb8a01935f,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\82bb8a01935f.png
+31cb39681f6a,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\31cb39681f6a.png
+8241e43408a8,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\8241e43408a8.png
+da6389d129aa,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\da6389d129aa.png
+e893e86dde94,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e893e86dde94.png
+a7673ac44509,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a7673ac44509.png
+c0968d41eb93,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\c0968d41eb93.png
+e26bcae6c67b,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e26bcae6c67b.png
+dbfd238b3468,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\dbfd238b3468.png
+907aaff827e5,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\907aaff827e5.png
+f7735b6d47f7,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f7735b6d47f7.png
+7d37a2939f12,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\7d37a2939f12.png
+74eee788edee,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\74eee788edee.png
+da9574d35b82,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\da9574d35b82.png
+25e9fd872182,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\25e9fd872182.png
+fc4d69128e7c,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\fc4d69128e7c.png
+e387311a840e,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e387311a840e.png
+5cf9127f251a,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\5cf9127f251a.png
+e6a6acf7fca1,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e6a6acf7fca1.png
+4c6c5a1bf5ab,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\4c6c5a1bf5ab.png
+61bbc11fe503,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\61bbc11fe503.png
+025a169a0bb0,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\025a169a0bb0.png
+0e0003ddd8df,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\0e0003ddd8df.png
+2821998fc002,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\2821998fc002.png
+e5f332efcbc7,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e5f332efcbc7.png
+f580566e27f5,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f580566e27f5.png
+cc9270f06b65,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\cc9270f06b65.png
+6daef3e5ca22,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\6daef3e5ca22.png
+d160ebef4117,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\d160ebef4117.png
+92d8a7c8e718,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\92d8a7c8e718.png
+22098b1fe461,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\22098b1fe461.png
+7fe7309d0b4f,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\7fe7309d0b4f.png
+a86c6283fd78,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a86c6283fd78.png
+1f0e223b8055,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\1f0e223b8055.png
+3e1f8fecb06f,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\3e1f8fecb06f.png
+2e79041ef722,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\2e79041ef722.png
+6107a2e9f60e,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\6107a2e9f60e.png
+a9d0c900b6a9,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a9d0c900b6a9.png
+731b19a460ad,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\731b19a460ad.png
+9c088d2d1559,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\9c088d2d1559.png
+75a071608ea6,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\75a071608ea6.png
+ac81fc200162,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ac81fc200162.png
+c739ff9580d3,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\c739ff9580d3.png
+88e4399d207c,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\88e4399d207c.png
+77a9538b8362,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\77a9538b8362.png
+aa94cc4bfd84,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\aa94cc4bfd84.png
+fb6b8200b7f8,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\fb6b8200b7f8.png
+11d8e5eaee5b,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\11d8e5eaee5b.png
+fcc6aa6755e6,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\fcc6aa6755e6.png
+bc23f74e14dd,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\bc23f74e14dd.png
+a07d9a5045cb,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a07d9a5045cb.png
+f58d37d48e42,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f58d37d48e42.png
+b82dfa63a75f,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\b82dfa63a75f.png
+7f1f3269f546,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\7f1f3269f546.png
+282bc792d23a,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\282bc792d23a.png
+14c3b41d289c,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\14c3b41d289c.png
+f71333204618,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f71333204618.png
+5f51192841f7,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\5f51192841f7.png
+3b232b394e4f,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\3b232b394e4f.png
+4beeca5cc859,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\4beeca5cc859.png
+54038e56131d,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\54038e56131d.png
+c5431b81cbc9,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\c5431b81cbc9.png
+224bb938e2dd,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\224bb938e2dd.png
+70d0392397de,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\70d0392397de.png
+6630f8675a97,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\6630f8675a97.png
+8fc09fecd22f,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\8fc09fecd22f.png
+cfb17a7cc8d4,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\cfb17a7cc8d4.png
+e10190a9d52f,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e10190a9d52f.png
+80964d8e0863,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\80964d8e0863.png
+fce93caa4758,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\fce93caa4758.png
+314862758acf,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\314862758acf.png
+9bbb6c455913,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\9bbb6c455913.png
+25002fe43f92,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\25002fe43f92.png
+253e96488cfb,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\253e96488cfb.png
+daad7b617f21,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\daad7b617f21.png
+4fa26d065ad3,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\4fa26d065ad3.png
+9e5ec293267c,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\9e5ec293267c.png
+a3706ce27869,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a3706ce27869.png
+ee059945b08a,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ee059945b08a.png
+f06e7a9df795,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f06e7a9df795.png
+d57d1be1bbd1,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\d57d1be1bbd1.png
+f092febbf5c0,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f092febbf5c0.png
+eda29a9d78f3,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\eda29a9d78f3.png
+86b3a7929bec,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\86b3a7929bec.png
+881ec6186e68,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\881ec6186e68.png
+28824d12d31d,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\28824d12d31d.png
+01b3aed3ed4c,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\01b3aed3ed4c.png
+0180bfa26c0b,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\0180bfa26c0b.png
+bfa30ebf63a8,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\bfa30ebf63a8.png
+ec01f0862669,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ec01f0862669.png
+e599151ca14b,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e599151ca14b.png
+a505981d1cab,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a505981d1cab.png
+eb1d37b71fd1,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\eb1d37b71fd1.png
+b8e9a8f4617d,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\b8e9a8f4617d.png
+454a944eb557,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\454a944eb557.png
+a654b25124c3,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a654b25124c3.png
+bf7221a016b5,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\bf7221a016b5.png
+218c822a3dd9,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\218c822a3dd9.png
+0daddc45d832,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\0daddc45d832.png
+5d4e5fd34d91,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\5d4e5fd34d91.png
+60e269e3e188,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\60e269e3e188.png
+40c24aded50c,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\40c24aded50c.png
+96ce10a1dbd7,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\96ce10a1dbd7.png
+7a6e384a0846,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\7a6e384a0846.png
+247ac63e5510,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\247ac63e5510.png
+ed6704e3b72e,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ed6704e3b72e.png
+a47432cd41e7,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a47432cd41e7.png
+1c3a6b4449e9,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\1c3a6b4449e9.png
+7c629b491d1a,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\7c629b491d1a.png
+3c311c9109b0,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\3c311c9109b0.png
+e160a3b19911,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e160a3b19911.png
+8bad12d70368,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\8bad12d70368.png
+6fe67fd7f5d1,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\6fe67fd7f5d1.png
+1c4d87baaffc,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\1c4d87baaffc.png
+4e1e252317b5,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\4e1e252317b5.png
+904b03ad5594,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\904b03ad5594.png
+73881f55a3ec,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\73881f55a3ec.png
+13063d1bc4ea,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\13063d1bc4ea.png
+aafe980edd0c,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\aafe980edd0c.png
+a32b5ce3d48a,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a32b5ce3d48a.png
+4dd4a4bf2421,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\4dd4a4bf2421.png
+29bc0e721cfe,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\29bc0e721cfe.png
+302bcdb635ff,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\302bcdb635ff.png
+e632e38fd2d4,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e632e38fd2d4.png
+09f1111a388a,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\09f1111a388a.png
+780f9c237c56,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\780f9c237c56.png
+3b185ac445d0,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\3b185ac445d0.png
+ff631653374e,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ff631653374e.png
+405b4f78658f,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\405b4f78658f.png
+2a8a9e957a6c,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\2a8a9e957a6c.png
+39f8935185e6,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\39f8935185e6.png
+6d259b5b4c76,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\6d259b5b4c76.png
+f7edc074f06b,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f7edc074f06b.png
+cf8f1bc7a215,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\cf8f1bc7a215.png
+655cafb4c932,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\655cafb4c932.png
+a8dea22ef903,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a8dea22ef903.png
+40140a925c43,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\40140a925c43.png
+7d0a871c45db,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\7d0a871c45db.png
+a06e5ac695ce,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a06e5ac695ce.png
+3f8d5c940ba4,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\3f8d5c940ba4.png
+acf976efd7ce,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\acf976efd7ce.png
+388f12e8df0b,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\388f12e8df0b.png
+e19936582c61,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e19936582c61.png
+d28bd830c171,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\d28bd830c171.png
+234399352d36,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\234399352d36.png
+5dc23e440de3,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\5dc23e440de3.png
+7877be80901c,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\7877be80901c.png
+13c191b59ed0,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\13c191b59ed0.png
+b91ef82e723a,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\b91ef82e723a.png
+f5650eb52640,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f5650eb52640.png
+263d8851e33b,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\263d8851e33b.png
+7c90ab025331,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\7c90ab025331.png
+1ca35d483772,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\1ca35d483772.png
+d48178e4a49b,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\d48178e4a49b.png
+f4de9620e3f2,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f4de9620e3f2.png
+3ee17aa12e46,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\3ee17aa12e46.png
+22d843b2bbd1,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\22d843b2bbd1.png
+aa6673241154,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\aa6673241154.png
+82f2784ead76,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\82f2784ead76.png
+6d5a8362dd1e,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\6d5a8362dd1e.png
+f3cd489acbee,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f3cd489acbee.png
+4982378d72f9,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\4982378d72f9.png
+53ddae6a619e,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\53ddae6a619e.png
+7ddcfcea7369,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\7ddcfcea7369.png
+d9bbdc33db83,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\d9bbdc33db83.png
+af3b0115aad1,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\af3b0115aad1.png
+b0d6417bad3e,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\b0d6417bad3e.png
+e3ab63dc9a60,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e3ab63dc9a60.png
+ee78ce914066,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ee78ce914066.png
+91cf56d3d1af,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\91cf56d3d1af.png
+64c6c6ee0d98,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\64c6c6ee0d98.png
+49e4b95ee2dc,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\49e4b95ee2dc.png
+5e52c9fe676f,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\5e52c9fe676f.png
+80ca40196225,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\80ca40196225.png
+87b1938994b5,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\87b1938994b5.png
+32a3eb37ff40,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\32a3eb37ff40.png
+e907d23cce3d,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e907d23cce3d.png
+99c626e58464,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\99c626e58464.png
+30db694bee42,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\30db694bee42.png
+6bf2a81a5d91,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\6bf2a81a5d91.png
+34723fae6475,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\34723fae6475.png
+17188c13e635,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\17188c13e635.png
+8860c7b11530,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\8860c7b11530.png
+157d17349cc6,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\157d17349cc6.png
+33778d136069,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\33778d136069.png
+e03a74e7d74f,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\e03a74e7d74f.png
+1f15ca672675,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\1f15ca672675.png
+4384fa687afa,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\4384fa687afa.png
+0babc12807b2,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\0babc12807b2.png
+aebe87a423c8,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\aebe87a423c8.png
+51cfeccaf40d,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\51cfeccaf40d.png
+69c4cbb630de,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\69c4cbb630de.png
+ea6a53e54d0f,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\ea6a53e54d0f.png
+df0886f1e76b,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\df0886f1e76b.png
+3c28fd846b43,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\3c28fd846b43.png
+8d13c46e7d75,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\8d13c46e7d75.png
+b17f0b81dab3,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\b17f0b81dab3.png
+9a56cfb980ec,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\9a56cfb980ec.png
+196e6a186452,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\196e6a186452.png
+4462fba1d2a1,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\4462fba1d2a1.png
+4c635a01593d,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\4c635a01593d.png
+973b0facfa9b,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\973b0facfa9b.png
+4927945ecfed,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\4927945ecfed.png
+dee687c6e88a,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\dee687c6e88a.png
+27e4c800a449,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\27e4c800a449.png
+a49b0b4484ea,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a49b0b4484ea.png
+4b618537d52f,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\4b618537d52f.png
+10eefba568dd,2,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\10eefba568dd.png
+02dda30d3acf,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\02dda30d3acf.png
+cb2f3c5d71a7,1,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\cb2f3c5d71a7.png
+a0445785e2f7,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a0445785e2f7.png
+a419fcb2dfb5,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\a419fcb2dfb5.png
+772af553b8b7,3,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\772af553b8b7.png
+3c42512c81e0,0,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\3c42512c81e0.png
+f03d3c4ce7fb,4,C:\Users\Suporte 01\Desktop\tcc\tcc-retinopatia-diabetica\data\raw\train_images\f03d3c4ce7fb.png

@@ -1,0 +1,11 @@
+                           precision    recall  f1-score   support
+
+          Sem retinopatia     0.9642    0.9695    0.9669       361
+         Retinopatia leve     0.6047    0.7027    0.6500        74
+     Retinopatia moderada     0.7424    0.7350    0.7387       200
+       Retinopatia severa     0.4898    0.6154    0.5455        39
+Retinopatia proliferativa     0.7297    0.4576    0.5625        59
+
+                 accuracy                         0.8186       733
+                macro avg     0.7062    0.6960    0.6927       733
+             weighted avg     0.8233    0.8186    0.8176       733

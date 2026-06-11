@@ -1,0 +1,61 @@
+{
+    "model": "EfficientNetB0",
+    "framework": "PyTorch",
+    "experiment_name": "v2_pytorch_gpu_448_bs24_workers8_sqrt_ce_labelsmooth0015_ft_features4_8_lr1e5",
+    "test_loss": 0.8002114814755699,
+    "test_accuracy": 0.791268758526603,
+    "epochs_head_configured": 10,
+    "epochs_fine_tuning_configured": 40,
+    "epochs_completed_total": 30,
+    "batch_size": 24,
+    "image_size": [
+        448,
+        448
+    ],
+    "dropout_rate": 0.3,
+    "num_workers": 8,
+    "pin_memory": true,
+    "persistent_workers": true,
+    "class_weight_mode": "sqrt",
+    "class_weights": {
+        "0": 0.6369653353298114,
+        "1": 1.4068686076813568,
+        "2": 0.8564787951515439,
+        "3": 1.9462607827531127,
+        "4": 1.5755906434433453
+    },
+    "loss_function": "cross_entropy",
+    "focal_gamma": null,
+    "label_smoothing": 0.015,
+    "use_weighted_sampler": false,
+    "split_strategy": "60% treino / 20% validação / 20% teste",
+    "preprocess_input": "torchvision.transforms.Normalize(mean=ImageNet, std=ImageNet)",
+    "data_augmentation": {
+        "Resize": [
+            448,
+            448
+        ],
+        "RandomRotation": 8,
+        "RandomAffine_translate": [
+            0.03,
+            0.03
+        ],
+        "RandomAffine_scale": [
+            0.95,
+            1.05
+        ],
+        "RandomHorizontalFlip": 0.5
+    },
+    "run_fine_tuning": true,
+    "fine_tuning_scope": "features_4_8",
+    "fine_tuning_layers": "features.4 + features.5 + features.6 + features.7 + features.8 + classifier",
+    "head_learning_rate": 0.001,
+    "fine_tuning_learning_rate": 1e-05,
+    "head_training_time_seconds": 461.95618653297424,
+    "fine_tuning_time_seconds": 1031.8913688659668,
+    "gpu_available": true,
+    "gpu_name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+    "final_model_path": "/home/avell/Documentos/Caio/tcc-retinopatia-diabetica/models/efficientnetb0_pytorch_gpu_v2_pytorch_gpu_448_bs24_workers8_sqrt_ce_labelsmooth0015_ft_features4_8_lr1e5/efficientnetb0_pytorch_gpu_v2_pytorch_gpu_448_bs24_workers8_sqrt_ce_labelsmooth0015_ft_features4_8_lr1e5_final.pt",
+    "best_head_checkpoint_path": "/home/avell/Documentos/Caio/tcc-retinopatia-diabetica/models/efficientnetb0_pytorch_gpu_v2_pytorch_gpu_448_bs24_workers8_sqrt_ce_labelsmooth0015_ft_features4_8_lr1e5/efficientnetb0_pytorch_gpu_v2_pytorch_gpu_448_bs24_workers8_sqrt_ce_labelsmooth0015_ft_features4_8_lr1e5_head_best.pt",
+    "best_fine_checkpoint_path": "/home/avell/Documentos/Caio/tcc-retinopatia-diabetica/models/efficientnetb0_pytorch_gpu_v2_pytorch_gpu_448_bs24_workers8_sqrt_ce_labelsmooth0015_ft_features4_8_lr1e5/efficientnetb0_pytorch_gpu_v2_pytorch_gpu_448_bs24_workers8_sqrt_ce_labelsmooth0015_ft_features4_8_lr1e5_fine_best.pt"
+}

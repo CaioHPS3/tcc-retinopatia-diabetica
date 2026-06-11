@@ -1,0 +1,60 @@
+{
+    "model": "DenseNet121",
+    "framework": "PyTorch",
+    "experiment_name": "v4_pytorch_gpu_448_bs32_workers8_sqrt_focal15_ft_denseblock4_lr1e5",
+    "test_loss": 0.6993418000892597,
+    "test_accuracy": 0.810368349249659,
+    "epochs_head_configured": 10,
+    "epochs_fine_tuning_configured": 20,
+    "epochs_completed_total": 30,
+    "batch_size": 32,
+    "image_size": [
+        448,
+        448
+    ],
+    "dropout_rate": 0.3,
+    "num_workers": 8,
+    "pin_memory": true,
+    "persistent_workers": true,
+    "class_weight_mode": "sqrt",
+    "class_weights": {
+        "0": 0.6369653353298114,
+        "1": 1.4068686076813568,
+        "2": 0.8564787951515439,
+        "3": 1.9462607827531127,
+        "4": 1.5755906434433453
+    },
+    "loss_function": "cross_entropy",
+    "focal_gamma": null,
+    "use_weighted_sampler": false,
+    "split_strategy": "60% treino / 20% validação / 20% teste",
+    "preprocess_input": "torchvision.transforms.Normalize(mean=ImageNet, std=ImageNet)",
+    "data_augmentation": {
+        "Resize": [
+            448,
+            448
+        ],
+        "RandomRotation": 8,
+        "RandomAffine_translate": [
+            0.03,
+            0.03
+        ],
+        "RandomAffine_scale": [
+            0.95,
+            1.05
+        ],
+        "RandomHorizontalFlip": 0.5
+    },
+    "run_fine_tuning": true,
+    "fine_tuning_scope": "denseblock4",
+    "fine_tuning_layers": "features.denseblock4 + features.norm5 + classifier",
+    "head_learning_rate": 0.001,
+    "fine_tuning_learning_rate": 5e-06,
+    "head_training_time_seconds": 534.4685461521149,
+    "fine_tuning_time_seconds": 1092.6737730503082,
+    "gpu_available": true,
+    "gpu_name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+    "final_model_path": "/home/avell/Documentos/Caio/tcc-retinopatia-diabetica/models/densenet121_pytorch_gpu_v4_pytorch_gpu_448_bs32_workers8_sqrt_focal15_ft_denseblock4_lr1e5/densenet121_pytorch_gpu_v4_pytorch_gpu_448_bs32_workers8_sqrt_focal15_ft_denseblock4_lr1e5_final.pt",
+    "best_head_checkpoint_path": "/home/avell/Documentos/Caio/tcc-retinopatia-diabetica/models/densenet121_pytorch_gpu_v4_pytorch_gpu_448_bs32_workers8_sqrt_focal15_ft_denseblock4_lr1e5/densenet121_pytorch_gpu_v4_pytorch_gpu_448_bs32_workers8_sqrt_focal15_ft_denseblock4_lr1e5_head_best.pt",
+    "best_fine_checkpoint_path": "/home/avell/Documentos/Caio/tcc-retinopatia-diabetica/models/densenet121_pytorch_gpu_v4_pytorch_gpu_448_bs32_workers8_sqrt_focal15_ft_denseblock4_lr1e5/densenet121_pytorch_gpu_v4_pytorch_gpu_448_bs32_workers8_sqrt_focal15_ft_denseblock4_lr1e5_fine_best.pt"
+}

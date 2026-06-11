@@ -1,0 +1,67 @@
+{
+    "model": "EfficientNetB0",
+    "framework": "PyTorch",
+    "technique_id": "t1",
+    "technique_name": "blocos_finais",
+    "technique_description": "Fine-tuning restrito aos blocos finais da arquitetura.",
+    "experiment_name": "t1_blocos_finais_448_bs24_workers8_sqrt_ce_ls0015_ft_features_last2_lr1e5",
+    "test_loss": 0.8395773852180491,
+    "test_accuracy": 0.7612551159618008,
+    "epochs_head_configured": 10,
+    "epochs_fine_tuning_configured": 40,
+    "epochs_completed_total": 30,
+    "batch_size": 24,
+    "image_size": [
+        448,
+        448
+    ],
+    "dropout_rate": 0.3,
+    "num_workers": 8,
+    "pin_memory": true,
+    "persistent_workers": true,
+    "class_weight_mode": "sqrt",
+    "class_weights": {
+        "0": 0.6369653353298114,
+        "1": 1.4068686076813568,
+        "2": 0.8564787951515439,
+        "3": 1.9462607827531127,
+        "4": 1.5755906434433453
+    },
+    "loss_function": "cross_entropy",
+    "focal_gamma": null,
+    "label_smoothing": 0.015,
+    "use_weighted_sampler": false,
+    "split_strategy": "60% treino / 20% validação / 20% teste",
+    "preprocess_input": "torchvision.transforms.Normalize(mean=ImageNet, std=ImageNet)",
+    "data_augmentation": {
+        "Resize": [
+            448,
+            448
+        ],
+        "RandomRotation": 8,
+        "RandomAffine_translate": [
+            0.03,
+            0.03
+        ],
+        "RandomAffine_scale": [
+            0.95,
+            1.05
+        ],
+        "RandomHorizontalFlip": 0.5
+    },
+    "run_fine_tuning": true,
+    "fine_tuning_scope": "features_last2",
+    "trainable_params": 1135797,
+    "total_params": 4013953,
+    "trainable_percent": 28.29622070811492,
+    "fine_tuning_layers": "features.7 + features.8 + classifier",
+    "head_learning_rate": 0.001,
+    "fine_tuning_learning_rate": 1e-05,
+    "head_training_time_seconds": 440.831335067749,
+    "fine_tuning_time_seconds": 925.7483291625977,
+    "gpu_available": true,
+    "gpu_name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+    "final_model_path": "/home/avell/Documentos/Caio/tcc-retinopatia-diabetica/models/t1_blocos_finais/efficientnetb0/efficientnetb0_pytorch_gpu_t1_blocos_finais_448_bs24_workers8_sqrt_ce_ls0015_ft_features_last2_lr1e5/efficientnetb0_pytorch_gpu_t1_blocos_finais_448_bs24_workers8_sqrt_ce_ls0015_ft_features_last2_lr1e5_final.pt",
+    "best_head_checkpoint_path": "/home/avell/Documentos/Caio/tcc-retinopatia-diabetica/models/t1_blocos_finais/efficientnetb0/efficientnetb0_pytorch_gpu_t1_blocos_finais_448_bs24_workers8_sqrt_ce_ls0015_ft_features_last2_lr1e5/efficientnetb0_pytorch_gpu_t1_blocos_finais_448_bs24_workers8_sqrt_ce_ls0015_ft_features_last2_lr1e5_head_best.pt",
+    "best_fine_checkpoint_path": "/home/avell/Documentos/Caio/tcc-retinopatia-diabetica/models/t1_blocos_finais/efficientnetb0/efficientnetb0_pytorch_gpu_t1_blocos_finais_448_bs24_workers8_sqrt_ce_ls0015_ft_features_last2_lr1e5/efficientnetb0_pytorch_gpu_t1_blocos_finais_448_bs24_workers8_sqrt_ce_ls0015_ft_features_last2_lr1e5_fine_best.pt"
+}

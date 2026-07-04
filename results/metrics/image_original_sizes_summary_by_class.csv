@@ -1,0 +1,6 @@
+diagnosis,classe,quantidade,largura_min,largura_media,largura_mediana,largura_max,altura_min,altura_media,altura_mediana,altura_max
+0,Sem retinopatia,1805,819,1433.42,1050.0,3216,614,1206.67,1050.0,2136
+1,Retinopatia leve,370,819,2471.45,2416.0,4288,614,1784.66,1736.0,2848
+2,Retinopatia moderada,999,474,2603.88,2588.0,4288,358,1846.46,1958.0,2848
+3,Retinopatia severa,193,640,2590.75,2588.0,4288,480,1840.82,1944.0,2848
+4,Retinopatia proliferativa,295,474,2632.34,2588.0,4288,358,1874.52,1958.0,2848

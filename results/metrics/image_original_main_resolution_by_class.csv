@@ -1,0 +1,6 @@
+resolucao,quantidade,diagnosis,classe,percentual_na_classe
+1050x1050,901,0,Sem retinopatia,49.92
+2416x1736,234,1,Retinopatia leve,63.24
+3216x2136,307,2,Retinopatia moderada,30.73
+2416x1736,60,3,Retinopatia severa,31.09
+2416x1736,80,4,Retinopatia proliferativa,27.12
